@@ -1,0 +1,203 @@
+body {
+	background: #fff;
+	color: #000;
+	font: small Verdana;
+	
+}
+
+#container {
+	border: 1px solid #ccc;
+	background: #fff;
+	padding: 20px;
+	background-image:url(http://fireweb.netii.net/bilder/background.jpg);	
+}
+
+h1 {
+	font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	font-weight: bold;
+	color: #000;
+}
+h1 a {
+	color: #000;
+	text-decoration: none;
+}
+
+.navigation {
+	border: 1px solid #ccc;
+	background: #F5F5F4;
+	padding: 4px;
+	margin-bottom: 10px;
+	font-size: 13px;
+}
+
+#infobox {
+	padding: 4px;
+	color: #777;
+	font-size: 0.8em;
+	margin-bottom: 10px;
+}
+
+#fullversion {
+	font-size: 1.1em;
+}
+
+.post {
+	border: 1px solid #ccc;
+	padding: 1px;
+	background: #F5F5F4;
+	margin-bottom: 10px;
+}
+
+.post .header {
+	background: #F5F5F4;
+}
+
+.post .header .author a {
+	color: #000;
+	text-decoration: none;
+}
+
+.post .header .dateline {
+	padding: 4px;
+	color: #777;
+	float: right;
+	margin-top: -20px;
+}
+
+.post .message {
+	background: #fff;
+	padding: 4px;
+}
+
+.listing {
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+}
+
+.header {
+	background: #F5F5F4;
+	font-weight: bold;
+	padding: 4px;
+	border-bottom: 1px solid #ccc;
+}
+
+.content
+	{
+		background-color:#FAFAFA;
+		margin-top:12px;
+		margin-left:240px;
+		margin-right:240px;
+		margin-bottom:42px;
+		padding-top:12px;
+		padding-left:28px;
+		padding-right:28px;
+		padding-bottom:12px;
+		box-shadow:4px 4px 2px #848484;
+	}
+	
+a.block {
+			text-align:center;
+			background-color:#FFFFFF;
+			display:inline-block;
+			color:#000000;
+			height:8%;
+			line-height:250%;
+			width:20%;
+			text-decoration:none;
+			text-shadow:none;
+			}
+a.block:hover {
+			background-color:#424242;
+			}	
+
+.threadlist .threads {
+	padding: 4px;
+}
+
+.threadlist .threads .replycount {
+	color: #777;
+	font-size: 0.8em;
+}
+
+.header h2 {
+	font-size: 1.0em;
+	margin: 0;
+}
+
+h3 {
+	font-size: 1.0em;
+	margin: 5px 0 0 10px;
+}
+
+.forumlist .forums ul {
+	list-style: none;
+}
+
+.error {
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+}
+
+.error .header {
+	background: #F5F5F4;
+	font-weight: bold;
+	padding: 4px;
+	border-bottom: 1px solid #ccc;
+}
+
+.error .message {
+	padding: 4px;
+}
+
+.multipage {
+	background: #F5F5F4;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+	padding: 4px;
+}
+
+#printinfo {
+	display: none;
+}
+
+#footer {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+#footer a {
+	color: #000;
+}
+
+.quote_body, .code_body {
+	margin-left: 18px;
+}
+
+a.linkfarbe1:link {
+			color:#ff4500;
+		}
+		a.linkfarbe1:visited {
+			color:#ff4500;
+		}
+		a.linkfarbe1:active {
+			color:#F8F8ff;
+		}
+		a.linkfarbe1:hover {
+			color:#800000;
+		}
+	
+	
+		a.linkfarbe2:link {
+			color:#444444;
+
+		}
+		a.linkfarbe2:visited {
+			color:#444444;
+		}
+		a.linkfarbe2:active {
+			color:#F8F8ff;
+		}
+		a.linkfarbe2:hover {
+			color:#800000;
+		}
